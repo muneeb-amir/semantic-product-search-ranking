@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
+sentence-transformers
+gensim
+nltk
+gradio
+tqdm
+pyarrow
