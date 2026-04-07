@@ -233,5 +233,12 @@ python app.py
 
 ## Results
 
-
+User interface of the semantic product search web application
 ![alt text](image.png)
+
+
+Search results for query: “wireless earbuds”.
+![alt text](image-1.png)
+
+Search results for query: “gaming keyboard rgb”.
+![alt text](image-2.png)
